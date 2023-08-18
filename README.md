@@ -1,14 +1,20 @@
 <h2 align="center"> Hey! I'm Rafael!</h2>
 
-<p align="center">🚀 Front-End Developer</p>
-<p align="center">💻 JavaScript | ReactJS</p>
+<div>
+  <p align="center">
+    🚀 Front-End Developer
+    <br>
+    💻 JavaScript | ReactJS
+  </p>
+  
+  <img align="right" height="150" style="border-radius: 10px; margin-left: 20px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE4NmxhNm9ha2VkdXhyOHA0c3dtZGMzOHlvamN5dTViM2h4bjl2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GDcXg6OD1pq8RxGZVA/giphy.gif">
+</div>
 
 ---
 
 ### Contact
 
 <div>
-  <img align="right" height="150" style="border-radius: 10px; margin-left: 20px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE4NmxhNm9ha2VkdXhyOHA0c3dtZGMzOHlvamN5dTViM2h4bjl2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GDcXg6OD1pq8RxGZVA/giphy.gif">
   <p>Email: rafaelpoffofilho@gmail.com</p>
   <p>GitHub: <a href="https://github.com/rafaelpoffo">github.com/rafaelpoffo</a></p>
 </div>
