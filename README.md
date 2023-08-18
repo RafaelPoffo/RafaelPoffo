@@ -16,4 +16,4 @@
 - Email: rafaelpoffofilho@gmail.com
 - GitHub: github.com/rafaelpoffo
 
-![Sailor_Moon](https://i.gifer.com/4j6o.mp4)
+<img align="right"  height="150" style="border-radius:10px;" src="https://i.gifer.com/4j6o.gif](https://i.gifer.com/4j6o.gif)"
