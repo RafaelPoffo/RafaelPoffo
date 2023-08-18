@@ -3,9 +3,6 @@
 <p align="center">🚀 Front-End Developer</p>
 <p align="center">💻 JavaScript | ReactJS</p>
 
-<p align="center">
-  <a href="#contact">📞 Contact</a>
-</p>
 
 ---
 
@@ -15,5 +12,6 @@
 - 📚 GitHub: [github.com/rafaelpoffo](https://github.com/rafaelpoffo)
 
 <p align="center">
-  <img align="right" height="150" style="border-radius:10px;" src="https://i.gifer.com/4j6o.gif">
+  <iframe src="https://i.gifer.com/4j6o.gifo" width="480" height="318.720" frameBorder="0" allowFullScreen></iframe>
+  <p><a href="https://gifer.com">via GIFER</a></p>
 </p>
