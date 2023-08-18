@@ -16,4 +16,4 @@
 - Email: rafaelpoffofilho@gmail.com
 - GitHub: github.com/rafaelpoffo
 
-  <img src="https://i.gifer.com/4j6o.mp4" alt="Web Developer GIF" />
+![Sailor_Moon](https://i.gifer.com/4j6o.mp4)
