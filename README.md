@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm Rafael!</h2>
+<h2 align="center"> Hey! I'm Rafael!</h2>
 
 <p align="center">🚀 Front-End Developer</p>
 <p align="center">💻 JavaScript | ReactJS</p>
