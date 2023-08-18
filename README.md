@@ -5,11 +5,12 @@
     🚀 Front-End Developer <br>
     💻 JavaScript | ReactJS
   </p>
-</div>
-
-<div align="right">
+  <div align="right">
   <img height="150" style="border-radius: 10px; margin-left: 20px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE4NmxhNm9ha2VkdXhyOHA0c3dtZGMzOHlvamN5dTViM2h4bjl2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GDcXg6OD1pq8RxGZVA/giphy.gif">
 </div>
+</div>
+
+
 
 ---
 
