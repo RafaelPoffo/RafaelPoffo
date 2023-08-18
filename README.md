@@ -18,6 +18,6 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="right"  height="150" style="border-radius:10px;" src="https://i.gifer.com/4j6o.gif"> 
+    <img align="right"  height="150" style="border-radius:10px;" src=["https://i.gifer.com/4j6o.gif"](https://i.gifer.com/4j6o.gif)"> 
 
 </div>
